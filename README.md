@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="175" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjloMXRhZnFkeXFiZGtqOW5wNmV2dnBtYThueG9uaWpwbHdodTNnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KztT2c4u8mYYUiMKdJ/giphy.gif"  />
+<img align="right" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjloMXRhZnFkeXFiZGtqOW5wNmV2dnBtYThueG9uaWpwbHdodTNnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KztT2c4u8mYYUiMKdJ/giphy.gif"  />
 
 ###
 
@@ -50,3 +50,11 @@
 ![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=ay4b35aq9bqbmbfe2fuevkrxa&unique={true|1|on|yes})
 
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KersaArleta&radius=16&theme=redical&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
