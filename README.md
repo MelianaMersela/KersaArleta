@@ -25,7 +25,7 @@
 
 ###
 
-<div align="leftr">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
